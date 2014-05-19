@@ -1,7 +1,7 @@
 DEPENDENCIES
   hadoop_single
     git: https://github.com/byplayer/cookbook-hadoop_single.git
-    revision: cfaeb05dc3910d95901942b8fef95d8baedfb043
+    revision: 83361bb56c38154d27c832a15d5e70ab3233be20
 
 GRAPH
   hadoop_single (0.1.0)
